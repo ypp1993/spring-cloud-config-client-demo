@@ -1,0 +1,9 @@
+.idea
+urm-push/.idea
+target
+*.out
+.classpath
+.project
+.settings/
+*.iml
+src/main/resources/test/*js
